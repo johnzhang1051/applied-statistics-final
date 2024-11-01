@@ -2,8 +2,7 @@
 
 Hello!
 
-This repository contains a research project analyzing the factors affecting individual income per capita across U.S. states from 2015 to 2017. The study employs linear regression models to identify key societal variables influencing income levels, revealing significant trends and relationships.
-Access the Paper
+This repository contains a research project analyzing the factors affecting individual income per capita across U.S. states from 2015 to 2017. The study employs linear regression models to identify key variables influencing income levels.
 
 You can access the full paper [here](https://github.com/johnzhang1051/applied-statistics-final/blob/main/Applied%20Stats%20Final.pdf).
 
