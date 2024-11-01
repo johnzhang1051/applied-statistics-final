@@ -1,4 +1,7 @@
 # Project Overview
+
+Hello!
+
 This repository contains a research project analyzing the factors affecting individual income per capita across U.S. states from 2015 to 2017. The study employs linear regression models to identify key societal variables influencing income levels, revealing significant trends and relationships.
 Access the Paper
 
